@@ -6,6 +6,8 @@ using namespace std;
 
 int total_column,total_row,start_row,start_column,goal_column, goal_row;
 
+\\this is clone of Bilal (C) from his own repo from local pc
+
 struct node
 {
 	int rowposition = 0, columnposition = 0;
